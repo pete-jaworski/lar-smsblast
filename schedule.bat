@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe c:\xampp\htdocs\smsblast\artisan smsblast:send
