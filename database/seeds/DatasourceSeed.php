@@ -19,12 +19,12 @@ class DatasourceSeed extends Seeder
             ],
             [
             'id'    => 2,
-            'name'  => 'MSSQL KIA',
+            'name'  => 'AS3_PRACA_KIA_MKT_MIELEC',
             'code'  => 'sqlsrv_kia'            
             ],
             [
             'id'    => 3,
-            'name'  => 'MSSQL SKODA',
+            'name'  => 'AS3_MKTSERWIS_PRACA',
             'code'  => 'sqlsrv_skoda'            
             ],            
         ));
